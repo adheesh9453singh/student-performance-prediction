@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2 Score
+Decision Tree,1.28,2.34,0.73
+Random Forest (Full),1.18,2.0,0.8
+Random Forest (Early),2.97,3.75,0.31
